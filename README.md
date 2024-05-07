@@ -7,7 +7,7 @@
   Refer to the program sumMatrixGPUManaged.cu. Would removing the memsets below affect performance? If you can, check performance with nvprof or nvvp.</h3>
 
 ## AIM:
-To perform Matrix addition with unified memory and check its performance with nvprof.  
+To perform Matrix addition with unified memory and check its performance with nvprof.    
 ## EQUIPMENTS REQUIRED:
 Hardware – PCs with NVIDIA GPU & CUDA NVCC
 Google Colab with NVCC Compiler
