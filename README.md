@@ -8,7 +8,7 @@
 
 ## AIM:
 To perform Matrix addition with unified memory and check its performance with nvprof.    
-## EQUIPMENTS REQUIRED:
+## EQUIPMENTS REQUIRED:         
 Hardware – PCs with NVIDIA GPU & CUDA NVCC
 Google Colab with NVCC Compiler
 ## PROCEDURE:
